@@ -1,7 +1,7 @@
 # lnmpr
 linux,nginx,mysql,php,redis
 
-- ![centos]('https://www.centos.org/images/logo_small.png') System Version:CentOS Linux release 7.6.1810 (Core) 
+- ![centos](https://www.centos.org/images/logo_small.png) System Version:CentOS Linux release 7.6.1810 (Core) 
 - Nginx Version: nginx/1.17.3
 - Mysql Version:5.7.24 MySQL Community Server (GPL)
 - PHP Version:7.3.8； 
