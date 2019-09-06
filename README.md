@@ -1,4 +1,4 @@
-# lnmpr
+# lnmpr(dokcer:linux,nginx,mysql,php,redis)
  ![centos](https://blog.centos.org/wp-content/uploads/2018/09/centos-logo-348x350-c.png "linux") ![php](http://pngimg.com/uploads/php/php_PNG50.png "php") ![redis](https://www.cppfans.org/wp-content/uploads/2014/07/redis-300x204.jpg "redis") ![mysql](https://www.mysql.com/common/logos/logo-mysql-170x115.png "mysql")  ![nginx](http://nginx.org/nginx.png "nginx") 
 
 - System Version:CentOS Linux release 7.6.1810 (Core)
