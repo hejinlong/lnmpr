@@ -1,5 +1,5 @@
 # lnmpr
- ![centos](https://blog.centos.org/wp-content/uploads/2018/09/centos-logo-348x350-c.png "linux") ![php](http://pngimg.com/uploads/php/php_PNG50.png "php") ![redis](https://redis.io/images/redis-white.png "redis") ![nginx](http://nginx.org/nginx.png "nginx") ![mysql](https://www.mysql.com/common/logos/logo-mysql-170x115.png "mysql") 
+ ![centos](https://blog.centos.org/wp-content/uploads/2018/09/centos-logo-348x350-c.png "linux") ![php](http://pngimg.com/uploads/php/php_PNG50.png "php") ![redis](https://redis.io/images/redis-black.png "redis") ![nginx](http://nginx.org/nginx.png "nginx") ![mysql](https://www.mysql.com/common/logos/logo-mysql-170x115.png "mysql") 
 
 - System Version:CentOS Linux release 7.6.1810 (Core)
 - Nginx Version: nginx/1.17.3 
